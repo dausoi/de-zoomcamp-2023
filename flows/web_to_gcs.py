@@ -55,4 +55,4 @@ def etl_web_to_gcs(color, year, month) -> None:
 
 
 if __name__ == "__main__":
-    etl_web_to_gcs("green", 2020, 11)
+    etl_web_to_gcs("green", 2020, 01)
