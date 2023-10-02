@@ -1,7 +1,7 @@
 ## Setting up Terraform
 ### Downloading and preparing necessary files and system config
 - Copy and Extract Terraform Binary on my VM (You can use AWS, Azure or even Github Codespace instead of GCP)
-- [Install gcloud CLI](https://cloud.google.com/sdk/docs/install). I find that it works better if I choose "signed-by not supported" and "keyring not supported" option.
+- [Install gcloud CLI](https://cloud.google.com/sdk/docs/install). I find that it works if I choose "signed-by not supported" and "keyring not supported" option. I am running Ubuntu Server 20.04 LTS inside a VM.
 - Copy the Service Account's private key to the VM then create an environment variable whose value is the file path.
 - Run `gcloud auth application-default login` and proceed as instructed.
 
