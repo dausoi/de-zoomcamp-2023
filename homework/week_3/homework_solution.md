@@ -1,5 +1,5 @@
-## Week 2 Homework
-Solution to [Data Engineering Zoomcamp Week 2](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2023/week_2_workflow_orchestration/homework.md), with commands and queries used. 
+## Week 3 Homework
+Solution to [Data Engineering Zoomcamp Week 3](https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2023/week_3_data_warehouse/homework.md), with commands and queries used. 
 
 If you find any mistake in the document, feel free to point out.
 
