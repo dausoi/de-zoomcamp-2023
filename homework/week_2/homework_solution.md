@@ -3,7 +3,7 @@ Solution to [Data Engineering Zoomcamp Week 2](https://github.com/DataTalksClub/
 
 If you find any mistake in the document, feel free to point out.
 
-### Question 2
+### Question 1
 - Answer : 447,770
 - Code used : From `etl_web_to_gcs.py` with slight modifications, e.g. changing from `tpep-pickup-datetime` to `lpep-pickup-datetime`.
 
